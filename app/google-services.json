@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "896394425991",
+    "project_id": "varad-e-commerce-app",
+    "storage_bucket": "varad-e-commerce-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896394425991:android:58cc5c2ac8181d3accea22",
+        "android_client_info": {
+          "package_name": "com.example.varade_commerceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy3LMZ0s_9TJtYVPVfbsNKlWvskTn6C0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
